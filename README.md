@@ -15,5 +15,6 @@ The following command will generate the resume in a docker container.
 **[Awesome-CV](https://github.com/posquit0/Awesome-CV)** is LaTeX template for a **CV(Curriculum Vitae)**, **Résumé** or
 **Cover Letter** inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv).
 
-## Resume Preview
-todo
+## My Resume
+![Resume](https://github.com/pgrennin/patrick_grenning_resume/blob/master/examples/patrick_grenning_resume.pdf)
+
