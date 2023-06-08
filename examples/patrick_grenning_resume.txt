@@ -1,0 +1,128 @@
+Patrick Grenning
+SENiOR SOFTWARE ENGiNEER
+
+Chicago, IL
+ć pgrennin@gmail.com |
+
+^ github.com/pgrennin |
+
+] linkedin.com/in/patrickgrenning |
+
+_ @pgrenn
+
+Summary
+Senior Software Engineer with over eight years of experience in the FinTech and payments industry. Strong contributor to both small and large
+teams in the development of scalable and high‑performing web applications. Proficient as a Full Stack Engineer, well‑versed in both front‑end
+and back‑end technologies.
+
+Work Experience
+Fiserv
+
+Chicago, IL
+
+SENiOR SOFTWARE DEVELOPMENT ENGiNEER
+
+Mar. 2021 ‑ Present
+
+• Implemented payment methods and features for Carat, Fiserv’s global omnichannel payments platform, utilizing the Java/Spring stack.
+• Developed a settlement service within the Carat payments platform, enabling merchants to settle funds from their customers’ payments. This
+service can process millions of transactions per day and over 300 transactions per second (TPS).
+SOFTWARE DEVELOPMENT ENGiNEER
+
+Jul. 2019 ‑ Mar. 2021
+
+• Designed and developed ’Apple Pay on the Web’ as a payment method for IPG Connect, Fiserv’s hosted payment page, utilizing JavaScript/HTML
+for the front‑end and Java/Spring for the back‑end.
+• Developed software to integrate TeleCheck (a check acceptance service) as a payment method into Fiserv’s payment gateway.
+First Data (acquired by Fiserv)
+Chicago, IL
+SOFTWARE DEVELOPMENT ENGiNEER
+
+Mar. 2018 ‑ Jul. 2019
+
+• Developed features and capabilities for digital wallet payment transactions made with Apple Pay, Google Pay, and Samsung Pay through First
+Data’s payment gateway, utilizing both REST API and SOAP API.
+• Developed software responsible for transmitting payment data from the payment gateway to front‑end processors, card networks, and banks.
+This involved adhering to the ISO8583 protocol to appropriately prepare and package data elements for processor transmission.
+
+Bluepay (merged with Clover)
+SOFTWARE ENGiNEER
+
+Chicago, IL
+Apr. 2015 ‑ Mar. 2018
+
+• Developed and maintained software for Bluepay’s KPI and reporting system, which produced data analytics for over 140,000 merchants monthly
+and delivered 2,000+ reports each month, using SQL and Ruby.
+• Built Ruby‑based ETL solutions for KPIs extracting data from 30+ data sources.
+• Converted the legacy KPI Reporting database from MS SQL Server to PostgreSQL, refactoring over 20,500 lines of SQL code.
+• Created a Ruby on Rails application from scratch, providing report generation and configuration support for partners and sales teams. This
+application was utilized by operations and finance teams to manage payments of residuals and commissions.
+
+Hydro Flow Products, Inc
+PRODUCT MANAGER
+
+Lake Zurich, IL
+Apr. 2010 ‑ Jul. 2014
+
+• Led the product development of Fire Pump Tester Software, a SaaS solution designed for collecting, storing, and analyzing flow test data.
+Initiated in December 2011, the project was successfully released in 2012.
+• Managed the redesign of the company’s e‑commerce website, resulting in a 25% increase in the average number of unique visitors per month
+and a 9% revenue growth over the following year.
+
+Skills
+Programming
+Back‑end
+Front‑end
+DevOps
+
+Ruby, Java, Python, JavaScript
+Redis, PostgresSQL, Oracle, Spring Boot
+Ruby on Rails, Bootstrap, HTML5, CSS, JQuery
+Docker, Amazon Web Services, Cloud Foundry
+
+Education
+Dev Bootcamp
+SOFTWARE ENGiNEERiNG PROGRAM
+
+Chicago, IL
+Aug. 2014 ‑ Dec. 2014
+
+• Completed 19‑week, onsite program focused on algorithm design, web development, source control, database design, test‑driven develop‑
+ment, and maintaining a production environment.
+
+1
+
+
+
+Purdue University
+B.S. iN ECONOMiCS
+
+West Lafayette, IN
+2005 ‑ 2009
+
+• Extracurricular: Phi Kappa Sigma Fraternity, Alpha Phi Omega Service Fraternity, Study Abroad Program in Dublin, Ireland, The National Scholars
+Honor Society.
+
+Projects
+OptionCharts.io
+CREATOR
+
+Dec. 2021 ‑ Present
+
+• Created OptionCharts.io, a web application for visualizing options data. Developed using Ruby on Rails, a Python backend service, Redis, and
+a PostgreSQL database.
+• OptionCharts.io has 9,100+ Monthly Active Users (MAU) users and has been featured on ProductHunt.
+• Website: https://optioncharts.io
+
+AI Question & Answer Web Template
+CREATOR
+
+Jan. 2023 ‑ Feb. 2023
+
+• Built an open‑source Python Flask web app template for AI Question and Answering on source documents, utilizing LangChain and the OpenAI
+API.
+• Website: https://github.com/pgrennin/ai_question_answer_web_template
+
+2
+
+

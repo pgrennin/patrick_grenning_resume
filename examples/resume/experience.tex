@@ -3,112 +3,79 @@
 %-------------------------------------------------------------------------------
 \cvsection{Work Experience}
 
-
 %-------------------------------------------------------------------------------
 %	CONTENT
 %-------------------------------------------------------------------------------
 \begin{cventries}
 
 %---------------------------------------------------------
-  \cventry
-    {Site Reliability Engineer \& Infrastructure Team Lead} % Job title
-    {Danggeun Pay Inc. (KarrotPay)} % Organization
-    {Seoul, S.Korea} % Location
+    \cventry
+    {Senior Software Development Engineer} % Job title
+    {Fiserv} % Organization
+    {Chicago, IL} % Location
     {Mar. 2021 - Present} % Date(s)
     {
-      \begin{cvitems} % Description(s) of tasks/responsibilities
-        \item {Everything that matters.}
-        \item {Designed and provisioned the entire infrastructure on the AWS cloud to meet security compliance and acquire a business license for financial services in Korea.}
-        \item {Continuously improved the infrastructure architecture since launching the service. (currently 3.6 million users)}
-      \end{cvitems}
+        \begin{cvitems} % Description(s) of tasks/responsibilities
+            \item {Implemented payment methods and features for Carat, Fiserv’s global omnichannel payments platform, utilizing the Java/Spring stack.}
+            \item {Developed a settlement service within the Carat payments platform, enabling merchants to settle funds from their customers' payments. This service can process millions of transactions per day and over 300 transactions per second (TPS).}
+        \end{cvitems}
     }
-
 %---------------------------------------------------------
-  \cventry
-    {Site Reliability Engineer} % Job title
-    {Danggeun Market Inc.} % Organization
-    {Seoul, S.Korea} % Location
-    {Feb. 2021 - Mar. 2021} % Date(s)
+    \cventry
+    {Software Development Engineer} % Job title
+    {} % Organization
+    {} % Location
+    {Jul. 2019 - Mar. 2021} % Date(s)
     {
+        \begin{cvitems} % Description(s) of tasks/responsibilities
+            \item {Designed and developed 'Apple Pay on the Web' as a payment method for IPG Connect, Fiserv's hosted payment page, utilizing JavaScript/HTML for the front-end and Java/Spring for the back-end.}
+            \item {Developed software to integrate TeleCheck (a check acceptance service) as a payment method into Fiserv's payment gateway.}
+        \end{cvitems}
     }
 
 %---------------------------------------------------------
-  \cventry
-    {Founding Member \& Director of Infrastructure Division} % Job title
-    {Kasa} % Organization
-    {Seoul, S.Korea} % Location
-    {Jun. 2018 - Jan. 2021} % Date(s)
+
+    \cventry
+    {Software Development Engineer} % Job title
+    {First Data (acquired by Fiserv)} % Organization
+    {Chicago, IL} % Location
+    {Mar. 2018 - Jul. 2019} % Date(s)
     {
-      \begin{cvitems} % Description(s) of tasks/responsibilities
-        \item {Designed on-boarding process to guide new engineers, help them to focus on the right tasks, and set expectations to help them be successful at Infrastructure team.}
-        \item {Migrated the orchestration system from DC/OS to Kubernetes which is based on AWS EKS. Managed 3 Kubernetes clusters and 300+ pods. Managed all Kubernetes manifests declaratively with Kustomize and ArgoCD.}
-        \item {Designed and managed complex network configurations on AWS with 4 VPC and 100+ subnets. Separated the development network and operation network according to financial regulations. Established dedicated network connections from AWS VPC to partners' on-premise network based on AWS Direct Connect with secure connection using IPsec VPN. Provisioned OpenVPN servers with LDAP integration.}
-        \item {Provisioned a observability system with Kafka, Elastic Stack(Filebeat, Heartbeat, APM Server, Logstash, Elasticsearch, Kibana). Collected log, uptime, tracing data from hosts, containers, pods and more. The ES cluster which has 9 nodes processed more than 1 billion documents per month. Wrote Terraform module to easily provision ES cluster on AWS EC2 instances.}
-        \item {Provisioned a monitoring system with Kafka, Telegraf, InfluxDB, Grafana. Collected metrics from hosts, containers, pods and more. Wrote Terraform module to easily provision InfluxDB with HA on AWS EC2 instances.}
-        \item {Introduced Kong API Gateway to easily connect all API microservices with a declarative management method based on Terraform and Atlantis to collaborate and audit change history.}
-        \item {Provisioned the Directory Service for employee identity management based on OpenLDAP which guarantees HA with multi-master replication.}
-        \item {Implemented Worker microservices consuming Kafka event topics for email, SMS, Kakaotalk and Slack notification. Developed in-house framework to easily build Kafka consumer microservice with common features including retry on failure, DLQ(Dead Letter Queue), event routing and more.}
-        \item {Introduced Elastic APM to help distributed tracing, trouble-shooting and performance testing in MSA.}
-      \end{cvitems}
+        \begin{cvitems} % Description(s) of tasks/responsibilities
+            \item {Developed features and capabilities for digital wallet payment transactions made with Apple Pay, Google Pay, and Samsung Pay through First Data's payment gateway, utilizing both REST API and SOAP API.}
+            \item {Developed software responsible for transmitting payment data from the payment gateway to front-end processors, card networks, and banks. This involved adhering to the ISO8583 protocol to appropriately prepare and package data elements for processor transmission.}
+        \end{cvitems}
     }
 
 %---------------------------------------------------------
-  \cventry
-    {Software Architect} % Job title
-    {Omnious. Co., Ltd.} % Organization
-    {Seoul, S.Korea} % Location
-    {Jun. 2017 - May. 2018} % Date(s)
-    {
-      \begin{cvitems} % Description(s) of tasks/responsibilities
-        \item {Provisioned an easily managable hybrid infrastructure(Amazon AWS + On-premise) utilizing IaC(Infrastructure as Code) tools like Ansible, Packer and Terraform.}
-        \item {Built fully automated CI/CD pipelines on CircleCI for containerized applications using Docker, AWS ECR and Rancher.}
-        \item {Designed an overall service architecture and pipelines of the Machine Learning based Fashion Tagging API SaaS product with the micro-services architecture.}
-        \item {Implemented several API microservices in Node.js Koa and in the serverless AWS Lambda functions.}
-        \item {Deployed a centralized logging environment(ELK, Filebeat, CloudWatch, S3) which gather log data from docker containers and AWS resources.}
-        \item {Deployed a centralized monitoring environment(Grafana, InfluxDB, CollectD) which gather system metrics as well as docker run-time metrics.}
-      \end{cvitems}
-    }
 
-%---------------------------------------------------------
-  \cventry
-    {Co-founder \& Software Engineer} % Job title
-    {PLAT Corp.} % Organization
-    {Seoul, S.Korea} % Location
-    {Jan. 2016 - Jun. 2017} % Date(s)
-    {
-      \begin{cvitems} % Description(s) of tasks/responsibilities
-        \item {Implemented RESTful API server for car rental booking application(CARPLAT in Google Play).}
-        \item {Built and deployed overall service infrastructure utilizing Docker container, CircleCI, and several AWS stack(Including EC2, ECS, Route 53, S3, CloudFront, RDS, ElastiCache, IAM), focusing on high-availability, fault tolerance, and auto-scaling.}
-        \item {Developed an easy-to-use Payment module which connects to major PG(Payment Gateway) companies in Korea.}
-      \end{cvitems}
-    }
-
-%---------------------------------------------------------
-  \cventry
-    {Software Engineer \& Security Researcher (Compulsory Military Service)} % Job title
-    {R.O.K Cyber Command, MND} % Organization
-    {Seoul, S.Korea} % Location
-    {Aug. 2014 - Apr. 2016} % Date(s)
-    {
-      \begin{cvitems} % Description(s) of tasks/responsibilities
-        \item {Lead engineer on agent-less backtracking system that can discover client device's fingerprint(including public and private IP) independently of the Proxy, VPN and NAT.}
-        \item {Implemented a distributed web stress test tool with high anonymity.}
-        \item {Implemented a military cooperation system which is web based real time messenger in Scala on Lift.}
-      \end{cvitems}
-    }
-
-%---------------------------------------------------------
-  \cventry
+    \cventry
     {Software Engineer} % Job title
-    {ShitOne Corp.} % Organization
-    {Seoul, S.Korea} % Location
-    {Dec. 2011 - Feb. 2012} % Date(s)
+    {Bluepay (merged with Clover)} % Organization
+    {Chicago, IL} % Location
+    {Apr. 2015 - Mar. 2018} % Date(s)
     {
-      \begin{cvitems} % Description(s) of tasks/responsibilities
-        \item {Developed a proxy drive smartphone application which connects proxy driver and customer.}
-        \item {Implemented overall Android application logic and wrote API server for community service, along with lead engineer who designed bidding protocol on raw socket and implemented API server for bidding.}
-      \end{cvitems}
+        \begin{cvitems} % Description(s) of tasks/responsibilities
+            \item {Developed and maintained software for Bluepay's KPI and reporting system, which produced data analytics for over 140,000 merchants monthly and delivered 2,000+ reports each month, using SQL and Ruby.}
+            \item {Built Ruby-based ETL solutions for KPIs extracting data from 30+ data sources.}
+            \item {Converted the legacy KPI Reporting database from MS SQL Server to PostgreSQL, refactoring over 20,500 lines of SQL code.}
+            \item {Created a Ruby on Rails application from scratch, providing report generation and configuration support for partners and sales teams. This application was utilized by operations and finance teams to manage payments of residuals and commissions.}
+        \end{cvitems}
     }
 
 %---------------------------------------------------------
+
+    \cventry
+    {Product Manager} % Job title
+    {Hydro Flow Products, Inc} % Organization
+    {Lake Zurich, IL} % Location
+    {Apr. 2010 - Jul. 2014} % Date(s)
+    {
+        \begin{cvitems} % Description(s) of tasks/responsibilities
+            \item {Led the product development of Fire Pump Tester Software, a SaaS solution designed for collecting, storing, and analyzing flow test data. Initiated in December 2011, the project was successfully released in 2012.}
+            \item {Managed the redesign of the company's e-commerce website, resulting in a 25\% increase in the average number of unique visitors per month and a 9\% revenue growth over the following year.}
+        \end{cvitems}
+    }
+%---------------------------------------------------------
+
 \end{cventries}

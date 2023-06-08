@@ -39,7 +39,7 @@
 % \definecolor{sectiondivider}{HTML}{5D5D5D}
 
 % Set false if you don't want to highlight section with awesome color
-\setbool{acvSectionColorHighlight}{true}
+\setbool{acvSectionColorHighlight}{false}
 
 % If you would like to change the social information separator from a pipe (|) to something else
 \renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
@@ -51,19 +51,19 @@
 %-------------------------------------------------------------------------------
 % Available options: circle|rectangle,edge/noedge,left/right
 % \photo[rectangle,edge,right]{./examples/profile}
-\name{Byungjin}{Park}
-\position{Site Reliability Engineer{\enskip\cdotp\enskip}Software Architect}
-\address{235, World Cup buk-ro, Mapo-gu, Seoul, 03936, Republic of Korea}
+\name{}{Patrick Grenning}
+\position{Senior Software Engineer}
+\address{Chicago, IL}
 
-\mobile{(+82) 10-9030-1843}
-\email{posquit0.bj@gmail.com}
+%\mobile{+1(847)804-0090}
+\email{pgrennin@gmail.com}
 %\dateofbirth{January 1st, 1970}
-\homepage{www.posquit0.com}
-\github{posquit0}
-\linkedin{posquit0}
+%\homepage{patrickgrenning.com}
+\github{github.com/pgrennin}
+\linkedin{linkedin.com/in/patrickgrenning}
 % \gitlab{gitlab-id}
 % \stackoverflow{SO-id}{SO-name}
-% \twitter{@twit}
+\twitter{@pgrenn}
 % \skype{skype-id}
 % \reddit{reddit-id}
 % \medium{madium-id}
@@ -73,7 +73,7 @@
 % \googlescholar{googlescholar-id}{}
 % \extrainfo{extra information}
 
-\quote{``Be the change that you want to see in the world."}
+% \quote{``Be the change that you want to see in the world."}
 
 
 %-------------------------------------------------------------------------------
@@ -86,9 +86,12 @@
 % Print the footer with 3 arguments(<left>, <center>, <right>)
 % Leave any of these blank if they are not needed
 \makecvfooter
-  {\today}
-  {Byungjin Park~~~·~~~Résumé}
+  {}
+  {}
   {\thepage}
+%   {\today}
+%   {Byungjin Park~~~·~~~Résumé}
+%   {\thepage}
 
 
 %-------------------------------------------------------------------------------
@@ -97,14 +100,14 @@
 %-------------------------------------------------------------------------------
 \input{resume/summary.tex}
 \input{resume/experience.tex}
-\input{resume/honors.tex}
-\input{resume/certificates.tex}
-% \input{resume/presentation.tex}
+%\input{resume/honors.tex}
+%\input{resume/certificates.tex}
 % \input{resume/writing.tex}
 % \input{resume/committees.tex}
+\input{resume/skills.tex}
 \input{resume/education.tex}
 % \input{resume/extracurricular.tex}
-
+\input{resume/projects.tex}
 
 %-------------------------------------------------------------------------------
 \end{document}
