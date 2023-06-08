@@ -16,5 +16,5 @@ The following command will generate the resume in a docker container.
 **Cover Letter** inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv).
 
 ## My Resume
-![Resume](https://github.com/pgrennin/patrick_grenning_resume/blob/master/examples/patrick_grenning_resume.pdf)
+![Resume](examples/patrick_grenning_resume.pdf)
 
