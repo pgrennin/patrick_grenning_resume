@@ -4,7 +4,7 @@ SENiOR SOFTWARE ENGiNEER
 Chicago, IL
 ć pgrennin@gmail.com |
 
-^ github.com/pgrennin |
+u patrickgrenning.com | ^ github.com/pgrennin |
 
 ] linkedin.com/in/patrickgrenning |
 
@@ -25,8 +25,8 @@ SENiOR SOFTWARE DEVELOPMENT ENGiNEER
 Mar. 2021 ‑ Present
 
 • Implemented payment methods and features for Carat, Fiserv’s global omnichannel payments platform, utilizing the Java/Spring stack.
-• Developed a settlement service within the Carat payments platform, enabling merchants to settle funds from their customers’ payments. This
-service can process millions of transactions per day and over 300 transactions per second (TPS).
+• Developed a settlement service within the Carat payments platform, enabling merchants to settle funds from their customers’ payments, capa‑
+ble of processing millions of transactions per day.
 SOFTWARE DEVELOPMENT ENGiNEER
 
 Jul. 2019 ‑ Mar. 2021
@@ -65,7 +65,6 @@ Lake Zurich, IL
 Apr. 2010 ‑ Jul. 2014
 
 • Led the product development of Fire Pump Tester Software, a SaaS solution designed for collecting, storing, and analyzing flow test data.
-Initiated in December 2011, the project was successfully released in 2012.
 • Managed the redesign of the company’s e‑commerce website, resulting in a 25% increase in the average number of unique visitors per month
 and a 9% revenue growth over the following year.
 
@@ -90,18 +89,16 @@ Aug. 2014 ‑ Dec. 2014
 • Completed 19‑week, onsite program focused on algorithm design, web development, source control, database design, test‑driven develop‑
 ment, and maintaining a production environment.
 
-1
-
-
-
 Purdue University
 B.S. iN ECONOMiCS
 
 West Lafayette, IN
 2005 ‑ 2009
 
-• Extracurricular: Phi Kappa Sigma Fraternity, Alpha Phi Omega Service Fraternity, Study Abroad Program in Dublin, Ireland, The National Scholars
-Honor Society.
+• Extracurricular: Phi Kappa Sigma Fraternity, Alpha Phi Omega Service Fraternity, Study Abroad Program in Dublin, Ireland.
+1
+
+
 
 Projects
 OptionCharts.io
