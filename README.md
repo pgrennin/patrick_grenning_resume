@@ -10,7 +10,7 @@ The following script I created  will generate the resume in a docker container.
 
 ## My Resume
 
-[Resume](examples/patrick_grenning_resume.pdf)
+[PDF Resume](examples/patrick_grenning_resume.pdf)
 
 ![Resume](examples/patrick_grenning_resume_combined.png)
 
