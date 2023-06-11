@@ -24,9 +24,10 @@ SENiOR SOFTWARE DEVELOPMENT ENGiNEER
 
 Mar. 2021 ‑ Present
 
-• Implemented payment methods and features for Carat, Fiserv’s global omnichannel payments platform, utilizing the Java/Spring stack.
-• Developed a settlement service within the Carat payments platform, enabling merchants to settle funds from their customers’ payments, capa‑
-ble of processing millions of transactions per day.
+• Implemented payment methods and features for CommerceHub, Fiserv’s global omnichannel payments platform, utilizing the Java/Spring
+stack.
+• Developed a settlement service for CommerceHub, enabling merchants to settle funds from their customers’ payments, capable of processing
+millions of transactions per day.
 SOFTWARE DEVELOPMENT ENGiNEER
 
 Jul. 2019 ‑ Mar. 2021
