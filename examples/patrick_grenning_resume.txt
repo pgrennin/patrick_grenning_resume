@@ -100,27 +100,3 @@ West Lafayette, IN
 1
 
 
-
-Projects
-OptionCharts.io
-CREATOR
-
-Dec. 2021 ‑ Present
-
-• Created OptionCharts.io, a web application for visualizing options data. Developed using Ruby on Rails, a Python backend service, Redis, and
-a PostgreSQL database.
-• OptionCharts.io has 9,100+ Monthly Active Users (MAU) users and has been featured on ProductHunt.
-• Website: https://optioncharts.io
-
-AI Question & Answer Web Template
-CREATOR
-
-Jan. 2023 ‑ Feb. 2023
-
-• Built an open‑source Python Flask web app template for AI Question and Answering on source documents, utilizing LangChain and the OpenAI
-API.
-• Website: https://github.com/pgrennin/ai_question_answer_web_template
-
-2
-
-
