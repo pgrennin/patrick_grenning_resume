@@ -32,8 +32,9 @@ SOFTWARE DEVELOPMENT ENGiNEER
 
 Jul. 2019 ‑ Mar. 2021
 
-• Designed and developed Apple Pay on the Web as a payment method for IPG Connect, Fiserv’s hosted payment page, utilizing JavaScript/HTML
-for the front‑end and Java/Spring for the back‑end.
+• Designed and led development of Apple Pay on the Web as a payment method for IPG Connect, Fiserv’s hosted payment page, utilizing
+JavaScript/HTML for the front‑end and Java/Spring for the back‑end.
+• Developed software to integrate TeleCheck (a check acceptance service) as a payment method into Fiserv’s payment gateway.
 First Data (acquired by Fiserv)
 Chicago, IL
 SOFTWARE DEVELOPMENT ENGiNEER
